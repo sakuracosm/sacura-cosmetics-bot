@@ -7,7 +7,7 @@ from telebot.types import (
     ReplyKeyboardRemove
 )
 
-TOKEN = "8815956212:AAGcJsqDIIWzdrxShOJB72KGjgSkb7npOHE"
+TOKEN = "8815956212:AAGd67SOM-8xT9VocO9ufGPsR2fgNNxXCZA"
 bot = telebot.TeleBot(TOKEN)
 
 ADMIN_ID = 685052577
